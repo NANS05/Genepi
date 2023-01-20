@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prem App</string>
+    <string name="text_hello">Bonjour tout le monde!</string>
+    <string name="text_toast">Le Toast</string>
+</resources>
