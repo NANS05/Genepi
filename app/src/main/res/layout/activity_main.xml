@@ -37,4 +37,12 @@
             android:layout_gravity="center_horizontal"
     />
 
+    <TextView
+            android:text="@string/title_form"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+    />
+
 </LinearLayout>

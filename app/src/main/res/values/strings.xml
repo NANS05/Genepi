@@ -3,4 +3,6 @@
     <string name="text_hello">Welcome to Genepi App!</string>
     <string name="text_button_toast">Tap me</string>
     <string name="text_toast">The Toast</string>
+
+    <string name="title_form">Survey</string>
 </resources>

@@ -3,6 +3,7 @@
     <string name="app_name">Prem App</string>
     <string name="text_hello">Bienvenue sur l\'app Génépi!</string>
     <string name="text_button_toast">Appuie ici</string>
-    <string name="text_button_form">Go to form</string>
     <string name="text_toast">Le Toast</string>
+
+    <string name="title_form">Questionnaire</string>
 </resources>
