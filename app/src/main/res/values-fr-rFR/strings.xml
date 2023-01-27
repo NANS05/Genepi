@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Prem App</string>
+    <string name="app_name">Génépi</string>
     <string name="text_hello">Bienvenue sur l\'app Génépi!</string>
     <string name="text_button_toast">Appuie ici</string>
     <string name="text_toast">Le Toast</string>
 
     <string name="title_form">Questionnaire</string>
+    <string name="text_form_q1">Quel est votre prénom ?</string>
+    <string name="text_form_q1_hint">Prénom</string>
+    <string name="text_form_q2">Aimez-vous le dévellopement Android?</string>
+    <string name="text_form_q3">Question 3?</string>
+    <string name="text_button_form">Valider</string>
 </resources>

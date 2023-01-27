@@ -1,8 +1,13 @@
 <resources>
-    <string name="app_name">First App</string>
-    <string name="text_hello">Welcome to Genepi App!</string>
+    <string name="app_name">Genepy</string>
+    <string name="text_hello">Welcome to Genepy App!</string>
     <string name="text_button_toast">Tap me</string>
     <string name="text_toast">The Toast</string>
 
     <string name="title_form">Survey</string>
+    <string name="text_form_q1">What is your firstname?</string>
+    <string name="text_form_q1_hint">Firstname</string>
+    <string name="text_form_q2">Do you like Android development?</string>
+    <string name="text_form_q3">3td question?</string>
+    <string name="text_button_form">Submit</string>
 </resources>
