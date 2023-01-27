@@ -15,11 +15,6 @@ class MainActivity : AppCompatActivity() {
         button.setOnClickListener {
             Toast.makeText(this, R.string.text_toast, Toast.LENGTH_LONG).show()
         }
-
-        var buttonForm = findViewById<Button>(R.id.buttonForm)
-        buttonForm.setOnClickListener {
-            setContentView(R.layout.formulaire)
-        }
     }
 
     override fun onStart() {
