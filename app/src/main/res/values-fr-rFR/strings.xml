@@ -8,7 +8,7 @@
     <string name="title_form">Questionnaire</string>
     <string name="text_form_q1">Quel est votre prénom ?</string>
     <string name="text_form_q1_hint">Prénom</string>
-    <string name="text_form_q2">Aimez-vous le dévellopement Android?</string>
-    <string name="text_form_q3">Question 3?</string>
+    <string name="text_form_q2">Aimez-vous le dévellopement Android ?</string>
+    <string name="text_form_q3">Êtes-vous heureux ?</string>
     <string name="text_button_form">Valider</string>
 </resources>

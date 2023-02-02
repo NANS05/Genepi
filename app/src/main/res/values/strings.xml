@@ -5,9 +5,9 @@
     <string name="text_toast">The Toast</string>
 
     <string name="title_form">Survey</string>
-    <string name="text_form_q1">What is your firstname?</string>
+    <string name="text_form_q1">What is your firstname ?</string>
     <string name="text_form_q1_hint">Firstname</string>
-    <string name="text_form_q2">Do you like Android development?</string>
-    <string name="text_form_q3">3td question?</string>
+    <string name="text_form_q2">Do you like Android development ?</string>
+    <string name="text_form_q3">Are you happy ?</string>
     <string name="text_button_form">Submit</string>
 </resources>
