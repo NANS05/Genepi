@@ -13,7 +13,7 @@ You can see good practicies in Issues
 
 ## NEXT STEPS
 
-Questions to choose un programing language for you.
+Add questions to define your favorite programming language.
 
 Update the suggested language in real time.
 
@@ -38,9 +38,8 @@ To install the app, please see the following steps :
 
 ## Developers :
 
-Nans MAUREL
-
-Mohamed-ali SEGHAIER
+* Nans MAUREL
+* Mohamed-ali SEGHAIER
 
 
 
