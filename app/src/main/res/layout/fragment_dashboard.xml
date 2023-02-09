@@ -2,49 +2,23 @@
 <LinearLayout
         xmlns:android="http://schemas.android.com/apk/res/android"
         xmlns:tools="http://schemas.android.com/tools"
+        tools:context=".ui.dashboard.DashboardFragment"
 
         android:orientation="vertical"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:padding="20dp"
-
-        tools:context=".MainActivity">
-
-    <ImageView
-            android:src="@mipmap/ic_launcher"
-
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_margin="20dp"
-            android:layout_gravity="center_horizontal"
-    />
-
-    <TextView
-            android:text="@string/text_hello"
-
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center_horizontal"
-    />
-
-    <Button
-            android:id="@+id/main_button_toast"
-            android:text="@string/text_button_toast"
-
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_margin="10dp"
-            android:layout_gravity="center_horizontal"
-    />
+        android:padding="20dp">
 
     <TextView
             android:text="@string/title_form"
 
+            android:textSize="32dp"
+            android:textStyle="bold"
+
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
-            android:layout_gravity="center_horizontal"
-    />
+            android:layout_gravity="center_horizontal"/>
 
     <TextView
             android:text="@string/text_form_q1"
@@ -57,7 +31,7 @@
     />
 
     <EditText
-            android:id="@+id/main_edittext_firstname"
+            android:id="@+id/form_EditText_firstname"
             android:hint="@string/text_form_q1_hint"
             android:maxLines="1"
 
@@ -107,5 +81,4 @@
             android:layout_margin="10dp"
             android:layout_gravity="center_horizontal"
     />
-
 </LinearLayout>

@@ -11,4 +11,11 @@
     <string name="text_form_q2">Aimez-vous le dévellopement Android ?</string>
     <string name="text_form_q3">Êtes-vous heureux ?</string>
     <string name="text_button_form">Valider</string>
+
+    <string name="hello_blank_fragment">Bonjour fragment vide</string>
+    <string name="title_activity_navigation">Navigation</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">DashBoard</string>
+    <string name="title_notifications">Notification</string>
+    <string name="title_activity_form">FormActivity</string>
 </resources>
