@@ -18,13 +18,19 @@ Next step is to implement questions to choose un programing language for you
 ### Install
 
 To install the app, please see the following steps : 
- *1* - Install Android Studio, and the JDK.
- *2* - Clone this project.
- *3* - Use your own Android Device, or create a virtual one in Android Studio.
- *4* - ENJOY using our works, this app still WIP, you can share with us ideas that you want to be implemented ! 
+
+
+*1* - Install Android Studio, and the JDK.
+
+*2* - Clone this project.
+
+*3* - Use your own Android Device, or create a virtual one in Android Studio.
+
+*4* - ENJOY using our works, this app still WIP, you can share with us ideas that you want to be implemented ! 
 
 ### Developers :
 
 Nans MAUREL
+
 Mohamed-ali SEGHAIER
 
