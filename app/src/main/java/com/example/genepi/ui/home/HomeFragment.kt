@@ -1,12 +1,12 @@
 package com.example.genepi.ui.home
 
 import android.os.Bundle
+import android.text.Editable
+import android.text.TextWatcher
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.widget.Button
-import android.widget.TextView
-import android.widget.Toast
+import android.widget.*
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
 import com.example.genepi.R
@@ -31,10 +31,10 @@ class HomeFragment : Fragment() {
         _binding = FragmentHomeBinding.inflate(inflater, container, false)
         val root: View = binding.root
 
-        var button = binding.button
+        var toastButton = binding.homeButton
 
-        button.setOnClickListener {
-            Toast.makeText(requireActivity(), R.string.text_toast, Toast.LENGTH_LONG).show()
+        toastButton.setOnClickListener {
+            Toast.makeText(context, R.string.text_toast, Toast.LENGTH_LONG).show()
         }
 
         return root
