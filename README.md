@@ -1,3 +1,4 @@
+
 # Genepi
 Génépi is our first app in Android developpment, using Kotlin.
 ![badge_dl](https://img.shields.io/github/languages/code-size/NANS05/Genepi?color=red&style=for-the-badge)
@@ -6,11 +7,7 @@ Génépi is our first app in Android developpment, using Kotlin.
 
 This app let you know wich language is better for you !
 
-Home screen (09/02/2023)
-![img_2.png](img_2.png)
-
-Form screen (09/02/2023)
-![img.png](img.png)
+![gifff](https://user-images.githubusercontent.com/91876112/217805343-8472e2a0-2b10-4071-9767-804f6992905c.gif)
 
 You can see good practicies in Issues
 
