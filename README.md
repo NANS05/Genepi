@@ -1,6 +1,6 @@
 # Genepi
 Génépi is our first app in Android developpment.
-With this app you can know how language is better for your profile
+With this app you can know witch language is better for your profile
 
 Home screen (09/02/2023)
 ![img_2.png](img_2.png)
