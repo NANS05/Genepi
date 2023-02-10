@@ -18,8 +18,8 @@
             tools:layout="@layout/fragment_dashboard" />
 
     <fragment
-            android:id="@+id/navigation_notifications"
-            android:name="com.example.genepi.ui.notifications.NotificationsFragment"
-            android:label="@string/title_notifications"
-            tools:layout="@layout/fragment_notifications" />
+            android:id="@+id/navigation_questions"
+            android:name="com.example.genepi.ui.questions.QuestionsFragment"
+            android:label="@string/title_questions"
+            tools:layout="@layout/fragment_questions" />
 </navigation>

@@ -17,5 +17,6 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">DashBoard</string>
     <string name="title_notifications">Notification</string>
+    <string name="title_questions">Questions</string>
     <string name="title_activity_form">FormActivity</string>
 </resources>
