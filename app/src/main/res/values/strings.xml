@@ -5,14 +5,41 @@
     <string name="text_toast">The Toast</string>
 
     <string name="title_form">Survey</string>
-    <string name="text_form_q1">What is your firstname ?</string>
-    <string name="text_form_q1_hint">Firstname</string>
+    <string name="text_form_q0">Are you happy ?</string>
+    <string name="text_form_q1">Are you human ?</string>
     <string name="text_form_q2">Do you like Android development ?</string>
-    <string name="text_form_q3">Are you happy ?</string>
-    <string name="text_button_form">Submit</string>
+    <string name="text_form_q3">Do you have family ?</string>
+    <string name="text_form_q4">Do you have friends ?</string>
+    <string name="text_form_q5">Can you count from 0 to 10 ?</string>
+    <string name="text_form_q6">Do you want to be rich ?</string>
+    <string name="text_form_q7">Do you know what is 1 + 1 result ?</string>
+    <string name="text_form_q8">Can you tie your shoelaces by yourself ?</string>
+    <string name="text_form_q9">Can you count 3 by 3 ?</string>
+    <string name="text_button_form">Yes</string>
+    <string name="text_button_form2">No</string>
+    <string-array name="text_form">
+        <item>Are you happy ?</item>
+        <item>Are you human ?</item>
+        <item>Do you like Android development ?</item>
+        <item>Do you have family ?</item>
+        <item>Do you have friends ?</item>
+        <item>Can you count from 0 to 10 ?</item>
+        <item>Do you want to be rich ?</item>
+        <item>Do you know what is 1 + 1 result ?</item>
+        <item>Can you tie your shoelaces by yourself ?</item>
+        <item>Can you count 3 by 3 ?</item>
+    </string-array>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="c_language">C Language</string>
+    <string name="javascript">Javascript</string>
+    <string name="kotlin">Kotlin for Android</string>
+    <string name="python">Python</string>
+    <string name="swift">Swift</string>
+    <string name="give_up">Give up</string>
+    <string name="csharp">C#</string>
+    <string name="cpp">C++</string>
+    <string name="php">PHP</string>
+    <string name="golang">GOLANG</string>
     <string name="title_activity_navigation">Navigation</string>
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>

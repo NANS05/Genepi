@@ -6,13 +6,42 @@
     <string name="text_toast">Le Toast</string>
 
     <string name="title_form">Questionnaire</string>
-    <string name="text_form_q1">Quel est votre prénom ?</string>
-    <string name="text_form_q1_hint">Prénom</string>
-    <string name="text_form_q2">Aimez-vous le dévellopement Android ?</string>
-    <string name="text_form_q3">Êtes-vous heureux ?</string>
-    <string name="text_button_form">Valider</string>
+    <string name="text_form_q0">Êtes-vous heureux ?</string>
+    <string name="text_form_q1">Êtes-vous humain ?</string>
+    <string name="text_form_q2">Aimez vous développer en Android ?</string>
+    <string name="text_form_q3">Avez vous une famille ?</string>
+    <string name="text_form_q4">Avez vous des amis ?</string>
+    <string name="text_form_q5">Pouvez-vous compter de 0 à 10 ?</string>
+    <string name="text_form_q6">Voulez-vous devenir riche ?</string>
+    <string name="text_form_q7">Savez-vous que fait 1 + 1 ?</string>
+    <string name="text_form_q8">Savez-vous faire vos lacets ?</string>
+    <string name="text_form_q9">Savez-vous compter 3 par 3 ?</string>
+    <string name="text_button_form">Oui</string>
+    <string name="text_button_form2">Non</string>
 
-    <string name="hello_blank_fragment">Bonjour fragment vide</string>
+    <string-array name="text_form">
+        <item>Êtes-vous heureux ?</item>
+        <item>Êtes-vous humain ?</item>
+        <item>Aimez vous développer en Android ?</item>
+        <item>Avez vous une famille ?</item>
+        <item>Avez vous des amis ?</item>
+        <item>Pouvez-vous compter de 0 à 10 ?</item>
+        <item>Voulez-vous devenir riche ?</item>
+        <item>Savez-vous que fait 1 + 1 ?</item>
+        <item>Savez-vous faire vos lacets ?</item>
+        <item>Savez-vous compter 3 par 3 ?</item>
+    </string-array>
+
+    <string name="c_language">Langage C</string>
+    <string name="javascript">Javascript</string>
+    <string name="kotlin">Kotlin pour Android</string>
+    <string name="python">Python</string>
+    <string name="swift">Swift</string>
+    <string name="give_up">Abandonne</string>
+    <string name="csharp">C#</string>
+    <string name="cpp">C++</string>
+    <string name="php">PHP</string>
+    <string name="golang">GOLANG</string>
     <string name="title_activity_navigation">Navigation</string>
     <string name="title_home">Home</string>
     <string name="title_dashboard">DashBoard</string>
