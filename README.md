@@ -13,9 +13,11 @@ You can see good practicies in Issues
 
 ## NEXT STEPS
 
-Add questions to define your favorite programming language.
+Add questions to define your favorite programming language. ✅ DONE
 
-Update the suggested language in real time.
+Update the suggested language in real time. ✅ DONE
+
+Show the suggested language in the homepage. ✅ DONE
 
 Being able to change the App logo, the menus colos as you want.
 
