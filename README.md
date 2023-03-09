@@ -7,7 +7,7 @@ Génépi is our first app in Android developpment, using Kotlin.
 
 This app let you know wich language is better for you !
 
-![gifff](https://user-images.githubusercontent.com/91876112/217805343-8472e2a0-2b10-4071-9767-804f6992905c.gif)
+![gifff](Screen_Recording_2023-03-09_at_12_18_58_AdobeExpress.gif)
 
 You can see good practicies in Issues
 
