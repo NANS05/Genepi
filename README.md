@@ -1,7 +1,8 @@
+![badge_dl](https://img.shields.io/github/languages/code-size/NANS05/Genepi?color=red&style=for-the-badge)
+
 
 # Genepi
 Génépi is our first app in Android developpment, using Kotlin.
-![badge_dl](https://img.shields.io/github/languages/code-size/NANS05/Genepi?color=red&style=for-the-badge)
 
 
 
