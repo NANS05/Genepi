@@ -1,4 +1,10 @@
 ![badge_dl](https://img.shields.io/github/languages/code-size/NANS05/Genepi?color=red&style=for-the-badge)
+![badge_dl](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![badge_dl](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+
+![badge_dl](http://ForTheBadge.com/images/badges/built-with-love.svg)
+![badge_dl](http://ForTheBadge.com/images/badges/built-with-science.svg)
+![badge_dl](http://ForTheBadge.com/images/badges/built-with-swag.svg)
 
 
 # Genepi
